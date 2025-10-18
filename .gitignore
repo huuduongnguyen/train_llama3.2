@@ -1,0 +1,3 @@
+outputs/
+wandb/
+test_chpt.py
